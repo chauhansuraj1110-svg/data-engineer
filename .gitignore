@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (keep raw samples, ignore generated)
+*.db
+*.sqlite
+data/processed/
+data/output/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env.local

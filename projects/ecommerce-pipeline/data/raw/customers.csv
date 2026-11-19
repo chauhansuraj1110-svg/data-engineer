@@ -1,0 +1,13 @@
+customer_id,first_name,last_name,email,city,country,signup_date
+1,Alice,Johnson,alice.johnson@gmail.com,New York,USA,2023-06-15
+2,Bob,Smith,BOB.SMITH@YAHOO.COM,San Francisco,USA,2023-07-20
+3,Charlie,Brown,charlie.brown@mail.com,London,UK,2023-08-10
+4,Diana,Ross,diana.ross@outlook.com,Chicago,USA,2023-09-01
+5,  Eve  ,Davis,eve.davis@startup.io,Berlin,Germany,2023-09-15
+6,Frank,Wilson,,Mumbai,India,2023-10-01
+7,Grace,Lee,grace.lee@company.com,Tokyo,Japan,2023-10-20
+8,Henry,Taylor,henry.taylor@mail.com, Sydney ,Australia,2023-11-05
+9,Ivy,Chen,ivy.chen@gmail.com,Toronto,Canada,2023-11-20
+10,Jack,Martinez,jack@martinez.com,New York,USA,2023-12-01
+11,,Kumar,amit.kumar@email.com,Mumbai,India,2024-01-10
+12,Luna,Garcia,luna.garcia@mail.com,Madrid,Spain,2024-02-01
